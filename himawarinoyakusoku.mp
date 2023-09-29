@@ -1,0 +1,3 @@
+<audio controls>
+  <source src="https://github.com/devmlad03/buatnad/blob/5fca52cf243e332d5eda1d500ae595b2bd063b0b/Doraemon%20Himawari%20No%20Yakusoku%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%20Motohiro%20Hata%20%E7%A7%A6%20%E5%9F%BA%E5%8D%9A%20%20Ost%20STAND%20BY%20ME%20Cover%20by%20Tereza.mp3" type="audio/ogg">
+</audio>
